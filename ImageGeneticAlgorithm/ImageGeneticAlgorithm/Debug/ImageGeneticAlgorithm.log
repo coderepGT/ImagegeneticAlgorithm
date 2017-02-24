@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(79): warning C4101: 'hdc': unreferenced local variable
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(78): warning C4101: 'ps': unreferenced local variable
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(131): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(136): warning C4302: 'type cast': truncation from 'LPSTR' to 'WORD'
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\lanista\documents\visual studio 2015\projects\cs labs\imagegeneticalgorithm\imagegeneticalgorithm\source.cpp(183): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  ImageGeneticAlgorithm.vcxproj -> C:\Users\Lanista\Documents\Visual Studio 2015\Projects\CS Labs\ImageGeneticAlgorithm\Debug\ImageGeneticAlgorithm.exe
+  ImageGeneticAlgorithm.vcxproj -> C:\Users\Lanista\Documents\Visual Studio 2015\Projects\CS Labs\ImageGeneticAlgorithm\Debug\ImageGeneticAlgorithm.pdb (Partial PDB)

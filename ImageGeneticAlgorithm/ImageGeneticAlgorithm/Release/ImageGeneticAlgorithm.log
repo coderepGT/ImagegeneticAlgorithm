@@ -1,0 +1,15 @@
+﻿  Source.cpp
+Source.cpp(88): warning C4101: hdc: неиспользованная локальная переменная
+Source.cpp(87): warning C4101: ps: неиспользованная локальная переменная
+Source.cpp(155): warning C4302: приведение типов: усечение из "LPSTR" в "WORD"
+Source.cpp(160): warning C4302: приведение типов: усечение из "LPSTR" в "WORD"
+Source.cpp(203): warning C4018: <: несоответствие типов со знаком и без знака
+Source.cpp(204): warning C4018: <: несоответствие типов со знаком и без знака
+Source.cpp(208): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  3 of 65 functions ( 4.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ImageGeneticAlgorithm.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\ImageGeneticAlgorithm\Release\ImageGeneticAlgorithm.exe
+  ImageGeneticAlgorithm.vcxproj -> C:\Users\User\Documents\Visual Studio 2015\Projects\ImageGeneticAlgorithm\Release\ImageGeneticAlgorithm.pdb (Full PDB)
